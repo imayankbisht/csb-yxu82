@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://imayankbisht.github.io/csb-yxu82/static/css/main.0b37d7fe.chunk.css",
-    "main.js": "https://imayankbisht.github.io/csb-yxu82/static/js/main.473517c9.chunk.js",
-    "main.js.map": "https://imayankbisht.github.io/csb-yxu82/static/js/main.473517c9.chunk.js.map",
+    "main.css": "https://imayankbisht.github.io/csb-yxu82/static/css/main.159f5fcf.chunk.css",
+    "main.js": "https://imayankbisht.github.io/csb-yxu82/static/js/main.244b3c73.chunk.js",
+    "main.js.map": "https://imayankbisht.github.io/csb-yxu82/static/js/main.244b3c73.chunk.js.map",
     "runtime-main.js": "https://imayankbisht.github.io/csb-yxu82/static/js/runtime-main.630b8cfa.js",
     "runtime-main.js.map": "https://imayankbisht.github.io/csb-yxu82/static/js/runtime-main.630b8cfa.js.map",
     "static/css/2.d0285e40.chunk.css": "https://imayankbisht.github.io/csb-yxu82/static/css/2.d0285e40.chunk.css",
-    "static/js/2.98da726c.chunk.js": "https://imayankbisht.github.io/csb-yxu82/static/js/2.98da726c.chunk.js",
-    "static/js/2.98da726c.chunk.js.map": "https://imayankbisht.github.io/csb-yxu82/static/js/2.98da726c.chunk.js.map",
+    "static/js/2.e6d67d38.chunk.js": "https://imayankbisht.github.io/csb-yxu82/static/js/2.e6d67d38.chunk.js",
+    "static/js/2.e6d67d38.chunk.js.map": "https://imayankbisht.github.io/csb-yxu82/static/js/2.e6d67d38.chunk.js.map",
     "index.html": "https://imayankbisht.github.io/csb-yxu82/index.html",
     "static/css/2.d0285e40.chunk.css.map": "https://imayankbisht.github.io/csb-yxu82/static/css/2.d0285e40.chunk.css.map",
-    "static/css/main.0b37d7fe.chunk.css.map": "https://imayankbisht.github.io/csb-yxu82/static/css/main.0b37d7fe.chunk.css.map",
-    "static/js/2.98da726c.chunk.js.LICENSE.txt": "https://imayankbisht.github.io/csb-yxu82/static/js/2.98da726c.chunk.js.LICENSE.txt"
+    "static/css/main.159f5fcf.chunk.css.map": "https://imayankbisht.github.io/csb-yxu82/static/css/main.159f5fcf.chunk.css.map",
+    "static/js/2.e6d67d38.chunk.js.LICENSE.txt": "https://imayankbisht.github.io/csb-yxu82/static/js/2.e6d67d38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.630b8cfa.js",
     "static/css/2.d0285e40.chunk.css",
-    "static/js/2.98da726c.chunk.js",
-    "static/css/main.0b37d7fe.chunk.css",
-    "static/js/main.473517c9.chunk.js"
+    "static/js/2.e6d67d38.chunk.js",
+    "static/css/main.159f5fcf.chunk.css",
+    "static/js/main.244b3c73.chunk.js"
   ]
 }
